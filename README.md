@@ -17,7 +17,7 @@ Repozytorium zawiera proste skrypty `.bat` oraz `.reg`, które pomagają ogranic
 - **Gaming Overlay**
 - protokół `ms-gamebar:`
 
-Najczęściej problem występuje w grach, emulatorach, aplikacjach fullscreen lub w systemach LTSC.
+Najczęściej problem pojawia się w grach, emulatorach, aplikacjach fullscreen, a także podczas podłączania kontrolera (gamepada) lub w systemach LTSC.
 
 ---
 
@@ -135,7 +135,7 @@ This repository contains simple `.bat` and `.reg` scripts designed to reduce or 
 - **Gaming Overlay notifications**
 - `ms-gamebar:` protocol triggers
 
-Commonly useful for games, emulators, fullscreen apps, and LTSC systems.
+The issue most commonly occurs in games, emulators, fullscreen applications, when connecting a controller (gamepad), or on LTSC systems.
 
 ---
 
