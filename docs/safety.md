@@ -24,10 +24,10 @@
 
 Możesz wyeksportować klucze:
 
--   HKCU`\SOFTWARE`{=tex}`\Microsoft`{=tex}`\Windows`{=tex}`\CurrentVersion`{=tex}`\GameDVR`{=tex}
--   HKCU`\System`{=tex}`\GameConfigStore`{=tex}
--   HKCR`\ms`{=tex}-gamebar
--   HKCR`\ms`{=tex}-gamebarservices
+- `HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR`
+- `HKCU\System\GameConfigStore`
+- `HKCR\ms-gamebar`
+- `HKCR\ms-gamebarservices`
 
 ------------------------------------------------------------------------
 
@@ -54,10 +54,10 @@ Use at your own risk.
 
 You may export the following keys:
 
--   HKCU`\SOFTWARE`{=tex}`\Microsoft`{=tex}`\Windows`{=tex}`\CurrentVersion`{=tex}`\GameDVR`{=tex}
--   HKCU`\System`{=tex}`\GameConfigStore`{=tex}
--   HKCR`\ms`{=tex}-gamebar
--   HKCR`\ms`{=tex}-gamebarservices
+- `HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR`
+- `HKCU\System\GameConfigStore`
+- `HKCR\ms-gamebar`
+- `HKCR\ms-gamebarservices`
 
 ------------------------------------------------------------------------
 
