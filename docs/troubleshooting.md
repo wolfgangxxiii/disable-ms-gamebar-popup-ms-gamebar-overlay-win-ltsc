@@ -1,14 +1,61 @@
-# Troubleshooting
+# Troubleshooting / Rozwiązywanie problemów
 
-## Nadal wyskakuje popup
-- Upewnij się, że uruchomiłeś `nomsgmbr.bat` jako administrator.
-- Upewnij się, że zaimportowałeś `.reg` na właściwym koncie użytkownika.
-- Zrób restart (wymagany).
-- Sprawdź, czy nie masz narzędzia/launchera, który wymusza Game Bar (np. skróty Win+G).
+  ---------------
+  \## 🇵🇱 Wersja
+  polska
 
-## Chcę przywrócić wszystko
-- Użyj folderu `scripts/revert/` i zrestartuj komputer.
+  \### Popup
+  nadal się
+  pojawia
 
-## Po zmianach coś przestało działać
-- Cofnij zmiany.
-- Jeśli używasz funkcji nagrywania/overlay, te skrypty są “anty-GameBar”.
+  ✔ Upewnij się,
+  że skrypty
+  uruchomiono
+  jako
+  administrator ✔
+  Sprawdź czy
+  pliki `.reg`
+  zostały
+  poprawnie
+  zaimportowane ✔
+  Wymagany jest
+  restart systemu
+  ---------------
+
+### Game Bar nadal działa
+
+Niektóre aktualizacje Windows mogą przywracać domyślne ustawienia.
+
+✔ Uruchom ponownie skrypty\
+✔ Sprawdź ustawienia Game Bar w Windows Settings
+
+------------------------------------------------------------------------
+
+### Coś przestało działać
+
+✔ Cofnij zmiany (`scripts/revert/`)\
+✔ Zrestartuj komputer
+
+## 🇬🇧 English Version
+
+### Popup Still Appears
+
+✔ Ensure scripts were run as Administrator\
+✔ Confirm `.reg` files were successfully imported\
+✔ A system reboot is required
+
+------------------------------------------------------------------------
+
+### Game Bar Still Launches
+
+Some Windows updates may restore default settings.
+
+✔ Re-run the scripts\
+✔ Check Game Bar settings in Windows Settings
+
+------------------------------------------------------------------------
+
+### Something Stopped Working
+
+✔ Revert changes (`scripts/revert/`)\
+✔ Reboot your system
