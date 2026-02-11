@@ -1,10 +1,10 @@
 # disable-ms-gamebar-popup-ms-gamebar-overlay-win-ltsc
 Scripts to disable Microsoft Game Bar / Gaming Overlay popups (ms-gamebar protocol &amp; GameDVR tweaks).
 
-# Disable MS Game Bar / Gaming Overlay Popup
+# (Disable MS Game Bar / Gaming Overlay Popup)
 
-Scripts to disable Microsoft Game Bar / Gaming Overlay popups
-(`ms-gamebar`) in Windows.
+{Scripts to disable Microsoft Game Bar / Gaming Overlay popups
+(`ms-gamebar`) in Windows.}
 
 ------------------------------------------------------------------------
 
