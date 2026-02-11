@@ -1,14 +1,68 @@
 # Safety / Bezpieczeństwo
 
-## Zalecane przed uruchomieniem
-- Utwórz punkt przywracania systemu.
-- (Opcjonalnie) Eksportuj klucze rejestru, które modyfikujesz:
-  - HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR
-  - HKCU\System\GameConfigStore
-  - HKCR\ms-gamebar
-  - HKCR\ms-gamebarservices
+  -------------------
+  \## 🇵🇱 Wersja
+  polska
 
-## Co może pójść nie tak
-- Game Bar przestanie się uruchamiać przez protokół ms-gamebar (to cel tej modyfikacji).
-- Nagrywanie/overlay mogą przestać działać.
-- Aktualizacje Windows lub aplikacji Xbox Game Bar mogą nadpisać ustawienia.
+  \### ⚠️ Ostrzeżenie
+
+  Skrypty w tym
+  repozytorium
+  modyfikują
+  **rejestr
+  Windows**.
+
+  Używasz ich na
+  własną
+  odpowiedzialność.
+  -------------------
+
+### ✅ Zalecane przed uruchomieniem
+
+✔ Utwórz punkt przywracania systemu\
+✔ (Opcjonalnie) wykonaj backup rejestru
+
+Możesz wyeksportować klucze:
+
+-   HKCU`\SOFTWARE`{=tex}`\Microsoft`{=tex}`\Windows`{=tex}`\CurrentVersion`{=tex}`\GameDVR`{=tex}
+-   HKCU`\System`{=tex}`\GameConfigStore`{=tex}
+-   HKCR`\ms`{=tex}-gamebar
+-   HKCR`\ms`{=tex}-gamebarservices
+
+------------------------------------------------------------------------
+
+### ❗ Możliwe skutki uboczne
+
+✔ Game Bar może przestać się uruchamiać\
+✔ Nagrywanie ekranu (GameDVR) może być wyłączone\
+✔ Aktualizacje Windows mogą nadpisać ustawienia
+
+## 🇬🇧 English Version
+
+### ⚠️ Warning
+
+The scripts in this repository modify the **Windows Registry**.
+
+Use at your own risk.
+
+------------------------------------------------------------------------
+
+### ✅ Recommended Before Running
+
+✔ Create a system restore point\
+✔ (Optional) Backup your registry
+
+You may export the following keys:
+
+-   HKCU`\SOFTWARE`{=tex}`\Microsoft`{=tex}`\Windows`{=tex}`\CurrentVersion`{=tex}`\GameDVR`{=tex}
+-   HKCU`\System`{=tex}`\GameConfigStore`{=tex}
+-   HKCR`\ms`{=tex}-gamebar
+-   HKCR`\ms`{=tex}-gamebarservices
+
+------------------------------------------------------------------------
+
+### ❗ Possible Side Effects
+
+✔ Game Bar may stop launching\
+✔ Screen recording (GameDVR) may be disabled\
+✔ Windows updates may overwrite settings
