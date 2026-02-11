@@ -239,3 +239,17 @@ This project was inspired by a Steam Community guide by **Heckin’ computer**:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3093555866
 
 We thank the author for sharing the original solution for the ms-gamebar / Gaming Overlay popup.
+
+---
+
+## 🔎 Keywords
+
+Microsoft Game Bar  
+ms-gamebar popup  
+Disable Game Bar Windows  
+Gaming Overlay fix  
+Windows Game Bar disable  
+GameDVR disable  
+ms-gaming-overlay  
+Windows LTSC Game Bar  
+Game Bar controller popup
